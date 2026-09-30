@@ -122,13 +122,21 @@ Gemini Bridge helps make that cooperation coherent:
 - **Codex can inspect the result and run the final checks**, so delegated work returns through a controlled integration path;
 - **the workflow can survive a changing subscription**, because Gemini adds capability without becoming the only place where the project can continue.
 
+There is another advantage for a cautious developer: **the whole idea does not always have to cross the bridge.**
+
+Codex can retain the product vision, the broader architecture, the relationship between its components, and the decisions that make the project distinctive. It can then separate suitable work into focused assignments for Gemini: transform this isolated structure, review this self-contained mechanism, generate tests for this interface, compare these two approaches, or implement a component whose surrounding business idea is not required.
+
+Gemini receives enough context to complete the delegated task, but not necessarily enough to reconstruct the entire product. A single generic utility, test case, interface, transformation, or technical fragment may reveal very little about why it exists, how the remaining pieces fit together, or what the finished project is intended to become. Codex remains the side that understands the larger plan and assembles the returned pieces into that plan.
+
+This is compartmentalisation, not invisibility. Gemini still receives and processes everything explicitly included in a delegated assignment, and some tasks genuinely require broader project access. But when a project can be divided safely, Gemini Bridge helps the user practise **need-to-know delegation**: share the smallest useful context, keep the defining idea and integration logic with Codex, and expand access only when the task justifies it.
+
 The promotion is temporary. The working method does not have to be.
 
 When those eighteen months eventually end, the developer still has the same projects, the same familiar Codex workflow, and the same control over what happens next. They can renew an eligible Gemini plan, change the delegation strategy, choose another supported service arrangement, or simply continue without it. The bridge added a route; it did not relocate the town.
 
 > **A good opportunity should expand a workflow, not force the user to rebuild it. Gemini Bridge turns temporary access into useful capacity while Codex remains the steady road through the project.**
 
-<sub>Safety note: an unusually cheap third-party offer can be fraudulent, unauthorised, region-restricted, temporary, or contrary to a provider's terms. A separate email address does not by itself protect project content sent to a service. Verify the seller and offer, use official redemption and authentication flows, review the provider's privacy terms, never share passwords or API keys, maintain backups, and grant only the file access required for the task. Gemini Bridge does not validate or endorse third-party promotions.</sub>
+<sub>Safety note: an unusually cheap third-party offer can be fraudulent, unauthorised, region-restricted, temporary, or contrary to a provider's terms. A separate email address does not by itself protect project content sent to a service, and task separation reduces exposure only when the delegated material is genuinely limited and self-contained. Verify the seller and offer, use official redemption and authentication flows, review the provider's privacy terms, never share passwords or API keys, maintain backups, inspect every delegation, and grant only the context and file access required for the task. Gemini Bridge does not validate or endorse third-party promotions.</sub>
 
 ## Highlights
 
