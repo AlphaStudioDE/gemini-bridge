@@ -27,6 +27,36 @@ Gemini Bridge makes this collaboration easier:
 
 For suitable tasks, this can reduce the amount of project material Codex must process directly and help preserve its token budget for decisions, verification, and final integration. Actual savings depend on the task, selected strategy, models, and amount of verification required.
 
+## Two cities, one bridge
+
+Once, there were two thriving towns separated by a wide river.
+
+Each town had its own people, knowledge, workshops, and strengths. But travelling between them required a ferry. People had to wait. Deliveries were slow. Communication was limited by how much the ferry could carry and how often it could cross. Both towns had enormous potential, yet their shared progress was constrained by the river between them.
+
+A visionary governor recognised the problem. He decided to connect the towns — but he did not want a narrow, temporary crossing that would merely move the old bottleneck onto a few wooden planks.
+
+He imagined a real bridge: broad, fast, comfortable, and built for the future. A crossing more like a highway than a footpath, supported by useful services along the way — places to refuel, maintain the journey, find what was needed, and continue safely.
+
+When the bridge opened, the towns did not lose their identities. They became more valuable to each other.
+
+People moved freely. Ideas travelled faster. Workshops exchanged knowledge. Deliveries that once required planning and waiting became part of everyday life. Each town could contribute what it did best, and their combined effort led to new tools, better services, and opportunities that neither could have created as quickly alone.
+
+**Gemini Bridge is built around the same idea.**
+
+Codex and Gemini are the two towns. Both are powerful, but each has different strengths, context, tools, and working styles. Copying information manually between them is the ferry: it works, but it is slow, repetitive, and limited.
+
+Gemini Bridge is the highway across the river:
+
+- **delegation strategies are its lanes**, directing each kind of work to the most suitable model;
+- **Codex supervision and verification are its traffic control**, keeping the final result aligned with the user's goal;
+- **voice control and Mini Panel are its comfortable points of access**, making the bridge available without interrupting the rest of the workflow;
+- **permissions, recovery points, project memory, and status monitoring are its safety and service infrastructure**;
+- **focused results are the efficient deliveries**, reducing unnecessary repetition of the entire project context.
+
+The purpose of the bridge is not to replace either side. It is to let the best capabilities of both sides meet, cooperate, and move useful work forward with less friction.
+
+> **The future is not one town defeating the other. It is what they can build once the river no longer keeps them apart.**
+
 ## Highlights
 
 ### Intelligent delegation
