@@ -57,6 +57,36 @@ The purpose of the bridge is not to replace either side. It is to let the best c
 
 > **The future is not one town defeating the other. It is what they can build once the river no longer keeps them apart.**
 
+## Real-world workflows
+
+### Example 1 — The missing middle
+
+Imagine a developer building something that genuinely matters to them.
+
+Perhaps it is their first application, a game they have wanted to create for years, or a growing project that has already become too complex to manage comfortably alone. An AI coding agent gives them momentum: it helps explore the project, solve problems, prepare changes, and turn ideas into working software.
+
+Then, just as the work begins to flow, the allowance runs out.
+
+The affordable plan was enough to begin, but not enough to maintain that pace throughout a demanding month. The developer must now wait for the limit to renew. The project stops not because the idea failed, but because the tool reached its boundary at the worst possible moment.
+
+There is a larger plan, of course. It offers far more capacity — but it also costs considerably more. For this developer, that creates a frustrating choice: keep losing productive time on the smaller plan, or pay for a level of capacity they may never fully use.
+
+There is no comfortable step in the middle. In one direction, the cost is time. In the other, the cost is money.
+
+**Gemini Bridge creates another route.**
+
+Instead of asking one AI and one allowance to carry the entire project, the bridge allows two independently available resources to work as a team. Gemini can take on broad project reading, repetitive transformations, long-context analysis, first-pass implementation, or an independent review. Codex remains the coordinator: it keeps the goal in view, examines the changes, runs tests, resolves integration problems, and decides what belongs in the final result.
+
+The developer is no longer paying twice to perform the same work. They are giving each side the part of the journey it can carry most effectively.
+
+In a suitable workflow, combining an affordable Codex plan with an affordable Gemini plan may provide enough practical capacity to keep the project moving — without immediately stepping up to a much more expensive Codex tier. It is not unlimited usage, and it is not a way around either provider's rules. It is a smarter division of legitimate work between services the user has chosen to connect.
+
+The greatest benefit is not simply that another model is available. It is that expensive work does not have to be repeated unnecessarily. Gemini can return a focused result after doing the heavy exploration, while Codex spends its allowance on supervision, verification, and the decisions that shape the finished project.
+
+> **The developer no longer has to choose between waiting for the ferry and paying for an entire highway they will barely use. Gemini Bridge gives two affordable journeys one shared road forward.**
+
+<sub>Pricing context: at the time of writing, [official OpenAI pricing](https://learn.chatgpt.com/docs/pricing) lists ChatGPT Plus at $20 per month and Pro plans from $100 per month. Prices, taxes, regional availability, credits, and usage limits can change. Gemini services are billed separately under Google's terms. Always check the providers' current pricing and conditions before choosing a plan.</sub>
+
 ## Highlights
 
 ### Intelligent delegation
